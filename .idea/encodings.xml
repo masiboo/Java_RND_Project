@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearchTree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BinarySearchTree/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CdPath" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CdPath/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonElementsInArray" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommonElementsInArray/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecimalToBinary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecimalToBinary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuplicateCharsInString" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DuplicateCharsInString/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindDuplicateNumber" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindDuplicateNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindMiddleIndex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindMiddleIndex/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindPrimNumber" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FindPrimNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Findfibbonacci" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Findfibbonacci/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FizzBuzzThreadConsumerProducer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FizzBuzzThreadConsumerProducer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FrogJump" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FrogJump/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ImplementArrayList" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ImplementArrayList/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IsPerfectNumber" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IsPerfectNumber/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8Practice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8Practice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java8Practice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LongestSubstring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LongestSubstring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MainTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MainTest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maximum RepeatedWordsFromFile." charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Maximum RepeatedWordsFromFile./src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyDeadlock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyDeadlock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MySingleton" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MySingleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NumberReverse" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NumberReverse/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palindrome" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palindrome/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PrimeFactors/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PrimeNumbers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PrimeNumbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Regx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Regx/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RxJava" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RxJava/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortMapByValue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortMapByValue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortedSearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SortedSearch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StreamDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StreamDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StringRecursiveReversal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StringRecursiveReversal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubArraySum" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SubArraySum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SwapTwoNumbersWithoutTemp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SwapTwoNumbersWithoutTemp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TickyCode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TrainComposition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TrainComposition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TwoMaxNumbers" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TwoMaxNumbers/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TwoSum" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TwoSum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VectorDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VectorDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XmlFolders" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/XmlFolders/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fibonacci-even-sum/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find sum of each digit in the given number using recursion" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/find sum of each digit in the given number using recursion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMedian" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMedian/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMode" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/findMode/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamdaDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lamdaDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samllestPositiveIteger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samllestPositiveIteger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serializableDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serializableDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sum-of-multiples-of-3-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userInput" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userInput/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../src/main/resources" charset="UTF-8" />
+  </component>
+</project>

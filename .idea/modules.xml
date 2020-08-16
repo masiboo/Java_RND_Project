@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzzInSpecificThread /FizzBuzzInSpecificThread.iml" filepath="$PROJECT_DIR$/FizzBuzzInSpecificThread /FizzBuzzInSpecificThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum of each digit in the given number using recursion. /Sumofeachdigitinthegivennumberusingrecursion.iml" filepath="$PROJECT_DIR$/Sum of each digit in the given number using recursion. /Sumofeachdigitinthegivennumberusingrecursion.iml" />
+    </modules>
+  </component>
+</project>

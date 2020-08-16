@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="434b1241-d987-4eca-b7f4-76c8959ad015" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Java8Practice/src/main/java/com/ma/home/MapVsFlatMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java8Practice/src/main/java/com/ma/home/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8Practice/src/main/java/com/ma/home/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regx/src/main/java/com/ma/home/RegEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Regx/src/main/java/com/ma/home/RegEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Geeks.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Geeks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/InnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/InnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java" beforeDir="false" afterPath="$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamdaDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lamdaDemo/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/nordea_teest$StreamDemoApp.ic" NAME="StreamDemoApp Coverage Results" MODIFIED="1526153309194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ma.home.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ProducerConsumer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1WqDpZsixv0c407LHxmcex19Z1Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557234237827" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.09165901" />
+    <property name="project.structure.side.proportion" value="0.26748973" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Java8Practice/src/main/resources" />
+      <recent name="$PROJECT_DIR$/JavaRegx/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="NumberReverse" />
+      <recent name="com.ma.home" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ma.home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CheatSheets" />
+      <recent name="$PROJECT_DIR$/JavaRegx/src/main/res" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExceptionTest">
+    <configuration name="Derived2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ma.home.Derived2" />
+      <module name="TickyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ma.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ma.home.ExceptionTest" />
+      <module name="TickyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ma.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Geeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ma.home.Geeks" />
+      <module name="TickyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ma.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ma.home.Gfg" />
+      <module name="TickyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ma.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ma.home.House" />
+      <module name="TickyCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ma.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Derived2" />
+      <item itemvalue="Application.House" />
+      <item itemvalue="Application.Gfg" />
+      <item itemvalue="Application.Geeks" />
+      <item itemvalue="Application.ExceptionTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExceptionTest" />
+        <item itemvalue="Application.Geeks" />
+        <item itemvalue="Application.Gfg" />
+        <item itemvalue="Application.House" />
+        <item itemvalue="Application.Derived2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434b1241-d987-4eca-b7f4-76c8959ad015" name="Default" comment="" />
+      <created>1525955455072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525955455072</updated>
+      <workItem from="1541105288386" duration="2747000" />
+      <workItem from="1557085247630" duration="8281000" />
+      <workItem from="1586713283773" duration="10524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2575" y="522" width="756" height="718" key="#Inspections" timestamp="1588778020389">
+      <screen x="1920" y="0" width="2560" height="1600" />
+    </state>
+    <state x="2575" y="522" width="756" height="718" key="#Inspections/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588778020389" />
+    <state x="240" y="133" width="1340" height="1043" key="#Project_Structure" timestamp="1592818944871">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="240" y="133" width="1340" height="1043" key="#Project_Structure/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592818944871" />
+    <state x="579" y="78" key="#xdebugger.evaluate" timestamp="1592824482647">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="2627" y="60" key="#xdebugger.evaluate/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588851325815" />
+    <state x="579" y="78" key="#xdebugger.evaluate/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592824482647" />
+    <state width="585" height="804" key="DebuggerActiveHint" timestamp="1592824266353">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="585" height="804" key="DebuggerActiveHint/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592824266353" />
+    <state x="167" y="132" width="1653" height="968" key="DiffContextDialog" timestamp="1589883785403">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="167" y="132" width="1653" height="968" key="DiffContextDialog/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1589883785403" />
+    <state width="1777" height="277" key="GridCell.Tab.0.bottom" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.0.bottom/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856988287" />
+    <state width="1777" height="277" key="GridCell.Tab.0.bottom/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.0.center" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.0.center/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856988287" />
+    <state width="1777" height="277" key="GridCell.Tab.0.center/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.0.left" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.0.left/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856988287" />
+    <state width="1777" height="277" key="GridCell.Tab.0.left/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.0.right" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.0.right/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856988287" />
+    <state width="1777" height="277" key="GridCell.Tab.0.right/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.1.bottom" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.1.bottom/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856979152" />
+    <state width="1777" height="277" key="GridCell.Tab.1.bottom/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.1.center" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.1.center/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856979152" />
+    <state width="1777" height="277" key="GridCell.Tab.1.center/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.1.left" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.1.left/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856979152" />
+    <state width="1777" height="277" key="GridCell.Tab.1.left/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state width="1777" height="277" key="GridCell.Tab.1.right" timestamp="1592892893090">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state width="1871" height="316" key="GridCell.Tab.1.right/67.34.1853.1166/1920.0.2560.1600@1920.0.2560.1600" timestamp="1588856979152" />
+    <state width="1777" height="277" key="GridCell.Tab.1.right/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1592892893090" />
+    <state x="180" y="34" width="1617" height="1166" key="Maven.ArtifactSearchDialog" timestamp="1588674842126">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="180" y="34" width="1617" height="1166" key="Maven.ArtifactSearchDialog/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1588674842126" />
+    <state x="502" y="34" width="1118" height="878" key="find.popup" timestamp="1589818450525">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="502" y="34" width="1118" height="878" key="find.popup/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1589818450525" />
+    <state x="153" y="246" width="1661" height="770" key="new project wizard" timestamp="1587832658495">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="153" y="246" width="1661" height="770" key="new project wizard/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1587832658495" />
+    <state x="572" y="165" width="1186" height="1034" key="search.everywhere.popup" timestamp="1588860248385">
+      <screen x="67" y="34" width="1853" height="1166" />
+    </state>
+    <state x="572" y="165" width="1186" height="1034" key="search.everywhere.popup/67.34.1853.1166/1920.0.2560.1600@67.34.1853.1166" timestamp="1588860248385" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/userInput/src/main/java/com/ma/home/UserInput.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/userInput/src/main/java/com/ma/home/UserInput.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/userInput/src/main/java/com/ma/home/UserInput.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/userInput/src/main/java/com/ma/home/UserInput.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/userInput/src/main/java/com/ma/home/UserInput.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearchTree/src/main/java/com/ma/home/BinarySearchTree.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TwoSum/src/main/java/com/ma/home/TwoSum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SortedSearch/src/main/java/com/ma/home/SortedSearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/VectorDemo/src/main/java/com/ma/home/VectorDemo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StreamDemo/src/main/java/com/ma/home/StreamDemoApp.java</url>
+          <line>121</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/StreamDemo/src/main/java/com/ma/home/StreamDemoApp.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Findfibbonacci/src/main/java/com/ma/home/Findfibbonacci.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Findfibbonacci/src/main/java/com/ma/home/Findfibbonacci.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Findfibbonacci/src/main/java/com/ma/home/Findfibbonacci.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Findfibbonacci/src/main/java/com/ma/home/Findfibbonacci.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MainTest/src/main/java/com/ma/home/Friend.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Regx/src/main/java/com/ma/home/RegexTestPatternMatcher.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Findfibbonacci/src/main/java/com/ma/home/Findfibbonacci.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PrimeFactors/src/main/java/com/ma/home/App.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>222</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ThreadTrickApp.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ThreadTrickApp.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ThreadTrickApp.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ThreadTrickApp.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/StaticTest.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/RunTest.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/RunTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/RunTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>243</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/CollectionApiTest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/CollectionApiTest.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>263</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>285</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>297</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>307</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Gfg.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Gfg.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Gfg.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Geeks.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/Geeks.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/B.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/SubSubAlpha.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/TryCatchFinally.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Regx/src/main/java/com/ma/home/RegEx.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Regx/src/main/java/com/ma/home/RegEx.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Regx/src/main/java/com/ma/home/RegEx.java</url>
+          <line>157</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java8Practice/src/main/java/com/ma/home/App.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>283</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/B.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/B.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/TryCatchFinally.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/TryCatchFinally.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/StringStringBuilder.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/StringStringBuilder.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/RunTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/House.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/ImplementArrayList/src/main/java/com/ma/home/MyArrayList.java</url>
+          <line>55</line>
+          <properties class="com.ma.home.MyArrayList" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/FizzBuzzInSpecificThread /src/main/java/com/ma/home/FizzBuzz.java</url>
+          <line>6</line>
+          <properties class="com.ma.home.FizzBuzz" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/ThreadTrickApp.java</url>
+          <line>13</line>
+          <properties class="com.ma.home.ThreadTrickApp" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/TickyCode/src/main/java/com/ma/home/App.java</url>
+          <line>13</line>
+          <properties field="index" class="com.ma.home.Super" />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_RND_Project$App.ic" NAME="App Coverage Results" MODIFIED="1588920083147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ma.home.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer2.settings">
+    <option name="autodetectServerAddress" value="true" />
+    <option name="serverIp" value="localhost" />
+  </component>
+</project>

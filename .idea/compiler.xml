@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SortMapByValue" />
+        <module name="SubArraySum" />
+        <module name="MySingleton" />
+        <module name="Maximum RepeatedWordsFromFile." />
+        <module name="MaximumRepeatedWordsFromFile" />
+        <module name="StringRecursiveReversal" />
+        <module name="lamdaDemo" />
+        <module name="samllestPositiveIteger" />
+        <module name="FindMiddleIndex" />
+        <module name="TickyCode" />
+        <module name="FindDuplicateNumber" />
+        <module name="DecimalToBinary" />
+        <module name="TwoMaxNumbers" />
+        <module name="findsumofeachdigitinthegivennumberusingrecursion" />
+        <module name="NumberReverse" />
+        <module name="FizzBuzzThreadConsumerProducer" />
+        <module name="SwapTwoNumbersWithoutTemp" />
+        <module name="CommonElementsInArray" />
+        <module name="samllestPositiveItegerInArray" />
+        <module name="LongestSubstring" />
+        <module name="fibonacci-even-sum" />
+        <module name="Java8Practice" />
+        <module name="DuplicateCharsInString" />
+        <module name="ImplementArrayList" />
+        <module name="MyDeadlock" />
+        <module name="IsPerfectNumber" />
+        <module name="sum-of-multiple-of-3-5" />
+        <module name="PrimeFactors" />
+        <module name="find sum of each digit in the given number using recursion" />
+      </profile>
+      <profile name="Annotation profile for Java_RND_Code" enabled="true">
+        <sourceOutputDir name="../../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Regx" />
+        <module name="Palindrome" />
+        <module name="RxJava" />
+        <module name="FrogJump" />
+        <module name="PrimeNumbers" />
+        <module name="VectorDemo" />
+        <module name="TwoSum" />
+        <module name="findMedian" />
+        <module name="XmlFolders" />
+        <module name="StreamDemo" />
+        <module name="serializableDemo" />
+        <module name="FindPrimNumber" />
+        <module name="MainTest" />
+        <module name="TrainComposition" />
+        <module name="SortedSearch" />
+        <module name="userInput" />
+        <module name="CdPath" />
+        <module name="findMode" />
+        <module name="BinarySearchTree" />
+        <module name="Findfibbonacci" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
